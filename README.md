@@ -1,2 +1,4 @@
-# my-leetcode
-this repo include all the leetcode peoblems i've solved 
+# Codeforces Solutions
+This repository contains my solutions to Codeforces problems.
+
+## Solved Problems :
